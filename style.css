@@ -1,0 +1,26 @@
+body {
+  font-family: "lobster", times new roman;
+  background-color: #A9F5F2;
+}
+
+h1 {
+  font-size: 100px;
+  margin-bottom: 30px
+}
+
+h2 {
+  margin-bottom: 25px
+}
+
+img {
+  margin-bottom: 25px
+}
+
+p {
+  font-size: 20px;
+  margin-bottom: 50px
+}
+
+footer {
+  margin-top: 300px;
+}
